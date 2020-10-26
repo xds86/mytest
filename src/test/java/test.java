@@ -3,6 +3,7 @@ public class test {
         System.out.println("dis");
         System.out.println("第二行");
         System.out.println("第三行");
+        System.out.println("第四行");
 
     }
 }
